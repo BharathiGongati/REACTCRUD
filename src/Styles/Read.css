@@ -1,0 +1,17 @@
+
+
+
+.read form{
+    background-color: aquamarine;
+    height: 200px;
+    width: 400px;
+}
+.read{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+form{
+    text-align: center;
+    padding-top: 70px;
+}
